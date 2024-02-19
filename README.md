@@ -8,11 +8,11 @@ Helper scripts for creating a trajectory visual in Unity
 This package only supports 2D projects
 
 ## Scripts
-Trajectory Drawer - Draws trajectory using a custom dot renderer via physics scene.
-Dot Renderer - Component that creates dots in specific positions.
-Physics Scene Manager - Handles hidden physics scene for trajectory physics calculations
-Object Pool - Customized object pool allowing for multiple instanced object pools in the same scene
-Throwable - Simple test object that throws object holding mouse button and is used in tandem with trajectory drawer.
+- Trajectory Drawer - Draws trajectory using a custom dot renderer via physics scene.
+- Dot Renderer - Component that creates dots in specific positions.
+- Physics Scene Manager - Handles hidden physics scene for trajectory physics calculations
+- Object Pool - Customized object pool allowing for multiple instanced object pools in the same scene
+- Throwable - Simple test object that throws object holding mouse button and is used in tandem with trajectory drawer.
 
 ## Setup
 - Must have all scripts in scene to function (Throwable is not required if you want to create your own implementation).
