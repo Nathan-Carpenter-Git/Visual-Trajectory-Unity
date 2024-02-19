@@ -3,6 +3,8 @@ Helper scripts for creating a trajectory visual in Unity
 
 ## Warning
 This package only supports 2D projects
+![](https://github.com/Nathan-Carpenter-Git/Visual-Trajectory-Unity/assets/144058518/c5600df3-a341-473c-9dda-6dbba9293b98)
+![](https://github.com/Nathan-Carpenter-Git/Visual-Trajectory-Unity/assets/144058518/1226ac86-fe42-41fb-bf3b-3d6e60967776)
 
 ## Scripts
 Trajectory Drawer - Draws trajectory using a custom dot renderer via physics scene.
