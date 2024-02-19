@@ -1,8 +1,8 @@
 # Visual-Trajectory-Unity
 Helper scripts for creating a trajectory visual in Unity
 
-![](https://github.com/Nathan-Carpenter-Git/Visual-Trajectory-Unity/assets/144058518/c5600df3-a341-473c-9dda-6dbba9293b98)
-![](https://github.com/Nathan-Carpenter-Git/Visual-Trajectory-Unity/assets/144058518/1226ac86-fe42-41fb-bf3b-3d6e60967776)
+![Trajectory Image 1](https://github.com/Nathan-Carpenter-Git/Visual-Trajectory-Unity/assets/144058518/c5600df3-a341-473c-9dda-6dbba9293b98)
+![Trajectory Image 2](https://github.com/Nathan-Carpenter-Git/Visual-Trajectory-Unity/assets/144058518/1226ac86-fe42-41fb-bf3b-3d6e60967776)
 
 ## Warning
 This package only supports 2D projects
