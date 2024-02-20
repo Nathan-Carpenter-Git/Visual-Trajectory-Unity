@@ -19,4 +19,4 @@ This package only supports 2D projects
 - There must be an physics object as the base object. This object requires a Dot Renderer script, Trajectory Drawer script, and Throwable script (if wanted).
 - In the scene there must be a singular instance of the scripts: Phyiscs Scene Manager and Object Pool.
 - Dot Renderer requires a dotPrefab for the dotted line (best case is a game object with a sprite renderer that has a circle or your own design for the dotted line).
-- Throwable requires a "trajectory object" prefab. This prefab should be the same as the original throwable prefab without any scripts attached (only sprite renderer and rigid body 2D).
+- Throwable requires a "trajectory object" prefab. This prefab should be the same as the original throwable object but without any scripts attached (only sprite renderer and rigid body 2D).
